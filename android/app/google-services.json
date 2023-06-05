@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930944218911",
+    "project_id": "msr-students",
+    "storage_bucket": "msr-students.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930944218911:android:a0ffcac4bcf73a382c222a",
+        "android_client_info": {
+          "package_name": "com.example.ramaiah_students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930944218911-n6dhoslr3uh0t3qs8pokq9l5nrfue3ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0uiSVtxiN14DYMZAQljYcPEk_hkymvEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930944218911-n6dhoslr3uh0t3qs8pokq9l5nrfue3ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
